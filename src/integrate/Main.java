@@ -3,25 +3,35 @@ package integrate;
 import java.util.function.DoubleUnaryOperator;
 
 public class Main {
+
     public static void main(String[] args) {
-        DoubleUnaryOperator f = (operand -> operand*operand);
-        DoubleUnaryOperator f1 = Main::fun;
-        DoubleUnaryOperator f2 = new DoubleUnaryOperator() {
-            @Override
-            public double applyAsDouble(double operand) {
-                return operand*operand;
+
+        System.out.println(integrate(x -> 10, 0, 10));
+
+    }
+
+    public static double integrate(DoubleUnaryOperator f, double a, double b) {
+        double h = 1;
+        double integral = 0;
+        double integralTemp;
+
+
+        do {
+
+            for (double i = a; i < b; i = i + h) {
+                integral += f.applyAsDouble(i);
             }
-        };
-        System.out.println(integrate(f, 2, 0));
-        System.out.println(integrate(f1, 2, 0));
-        System.out.println(integrate(f2, 2, 0));
+            integral *= h;
+            h = h / 2;
+            integralTemp = integral;
+            integral = 0.0;
+            for (double i = a; i < b; i = i + h) {
+                integral += f.applyAsDouble(i);
+            }
+            integral *= h;
 
+        }
+        while (Math.abs(integral - integralTemp) > 0.1);
+        return integral;
     }
-    static double fun(double x){
-        return x*x;
-    }
-    static double integrate(DoubleUnaryOperator f, double a, double b) {
-        return f.applyAsDouble(a);
-    }
-
 }

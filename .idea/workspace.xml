@@ -2,12 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93be3a35-9a3c-4106-9067-60c02436469d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/com.javamentor/factorial/Factorial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/com.javamentor/mergingArrays/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Theater/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/getCallerClassAndMethod/GetCallerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inputOutputStream/InOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/IOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logging/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mailService/AbstractSendable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mailService/MailMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mailService/MailPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mailService/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mailService/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mailService/RealMailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mailService/Sendable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/robot/RobotConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/robot/RobotConnectionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/robot/RobotConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqrtException/SqrtEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/textAnalyser/KeywordAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/textAnalyser/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/textAnalyser/NegativeTextAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/textAnalyser/SpamAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/textAnalyser/TooLongTextAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/AbstractSendable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/IllegalPackageException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/Inspector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/MailMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/MailPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/RealMailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/Sendable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/Spy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/StolenPackageException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/Thief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thePost/UntrustworthyMailWorker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/factorial/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mergingArrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mergingArrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/Polyndrom/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.javamentor/Polyndrom/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/Robot/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.javamentor/Robot/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/Robot/Main$Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.javamentor/Robot/Main$Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/Robot/Main$Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.javamentor/Robot/Main$Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/Robot/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.javamentor/Robot/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/ascii/AsciiCharSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.javamentor/ascii/AsciiCharSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/ascii/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.javamentor/ascii/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/complexNumber/ComplexNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.javamentor/complexNumber/ComplexNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/factorial/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.javamentor/factorial/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/integrate/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/integrate/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.javamentor/integrate/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/isDegreeOfTwo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.javamentor/isDegreeOfTwo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/returnTrue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.javamentor/returnTrue/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/textAnaliser/KeywordsAnaliser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/textAnaliser/Label.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/textAnaliser/NegativeTextAnaliser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/textAnaliser/SpamAnaliser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/textAnaliser/TextAnaliser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.javamentor/textAnaliser/TooLongTextAnaliser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polyndrom/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polyndrom/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Robot/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/robot/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Robot/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/robot/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Robot/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/robot/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Theater/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/theater/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ascii/AsciiCharSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ascii/AsciiCharSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ascii/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ascii/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/complexNumber/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/complexNumber/ComplexNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factorial/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factorial/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrate/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrate/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/isDegreeOfTwo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isDegreeOfTwo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/returnTrue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/returnTrue/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textAnaliser/KeywordsAnaliser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textAnaliser/Label.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/textAnalyser/Label.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textAnaliser/NegativeTextAnaliser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textAnaliser/SpamAnaliser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textAnaliser/TextAnaliser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/textAnalyser/TextAnalyser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textAnaliser/TooLongTextAnaliser.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,43 +82,110 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mergingArrays/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/robot/Direction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+            <state>
+              <folding>
+                <element signature="e#0#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/robot/Robot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1349">
+              <caret line="71" column="14" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/robot/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3762">
+              <caret line="205" column="17" selection-start-line="205" selection-start-column="17" selection-end-line="205" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/io/IOTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/returnTrue/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/inputOutputStream/InOut.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/textAnaliser/TextAnaliser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/textAnaliser/SpamAnaliser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="228">
+              <caret line="12" column="70" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
               <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/robot/RobotConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/robot/RobotConnectionManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/robot/RobotConnectionException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,8 +197,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -76,45 +209,61 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/returnTrue/Main.java" />
-        <option value="$PROJECT_DIR$/src/isYearLeap/Main.java" />
-        <option value="$PROJECT_DIR$/src/howManyDays/Main.java" />
-        <option value="$PROJECT_DIR$/src/howManyDaysFromCristmas/Main.java" />
-        <option value="$PROJECT_DIR$/src/aPlusBisC/Main.java" />
-        <option value="$PROJECT_DIR$/src/howManyLeapYearsFromCristmas/Main.java" />
-        <option value="$PROJECT_DIR$/src/Robot/Robon.java" />
-        <option value="$PROJECT_DIR$/src/returnTrue/Direction.java" />
-        <option value="$PROJECT_DIR$/src/Robot/Direction.java" />
-        <option value="$PROJECT_DIR$/src/Robot/Robot.java" />
-        <option value="$PROJECT_DIR$/src/Robot/Main.java" />
-        <option value="$PROJECT_DIR$/src/Robot/Test.java" />
-        <option value="$PROJECT_DIR$/src/Robot/Testclass.java" />
-        <option value="$PROJECT_DIR$/src/complexNumber/Main.java" />
-        <option value="$PROJECT_DIR$/src/complexNumber/ComplexNumber.java" />
-        <option value="$PROJECT_DIR$/src/integrate/Main.java" />
-        <option value="$PROJECT_DIR$/src/AsciiCharSequence/A.java" />
-        <option value="$PROJECT_DIR$/src/ascii/A.java" />
+        <option value="$PROJECT_DIR$/src/textAnaliser/NegativeTextAnaliser.java" />
+        <option value="$PROJECT_DIR$/src/textAnaliser/SpamAnaliser.java" />
         <option value="$PROJECT_DIR$/src/ascii/AsciiCharSequence.java" />
         <option value="$PROJECT_DIR$/src/ascii/Main.java" />
-        <option value="$PROJECT_DIR$/src/textAnaliser/KeywordsAnaliser.java" />
-        <option value="$PROJECT_DIR$/src/textAnaliser/NegativeTextAnaliser.java" />
-        <option value="$PROJECT_DIR$/src/textAnaliser/TooLongTextAnaliser.java" />
-        <option value="$PROJECT_DIR$/src/textAnaliser/SpamAnaliser.java" />
-        <option value="$PROJECT_DIR$/src/textAnaliser/TextAnaliser.java" />
-        <option value="$PROJECT_DIR$/src/textAnaliser/Label.java" />
-        <option value="$PROJECT_DIR$/src/chars/Main.java" />
-        <option value="$PROJECT_DIR$/src/isDegreeOfTwo/Main.java" />
-        <option value="$PROJECT_DIR$/src/Polyndrom/Main.java" />
-        <option value="$PROJECT_DIR$/src/factorial/Main.java" />
+        <option value="$PROJECT_DIR$/src/polyndrom/Main.java" />
         <option value="$PROJECT_DIR$/src/factorial/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/mergingArrays/Main.java" />
-        <option value="$PROJECT_DIR$/src/Theater/Main.java" />
-        <option value="$PROJECT_DIR$/src/.gitignore" />
+        <option value="$PROJECT_DIR$/src/isDegreeOfTwo/Main.java" />
+        <option value="$PROJECT_DIR$/src/theater/Main.java" />
+        <option value="$PROJECT_DIR$/src/complexNumber/ComplexNumber.java" />
+        <option value="$PROJECT_DIR$/src/integrate/Main.java" />
+        <option value="$PROJECT_DIR$/src/textAnaliser/TooLongTextAnaliser.java" />
+        <option value="$PROJECT_DIR$/src/textAnalyser/TooLongTextAnaliser.java" />
+        <option value="$PROJECT_DIR$/src/textAnalyser/TextAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/textAnalyser/Main.java" />
+        <option value="$PROJECT_DIR$/src/textAnalyser/TextAnalyser.java" />
+        <option value="$PROJECT_DIR$/src/textAnalyser/KeywordAnalyser.java" />
+        <option value="$PROJECT_DIR$/src/textAnalyser/NegativeTextAnalyser.java" />
+        <option value="$PROJECT_DIR$/src/textAnalyser/SpamAnalyser.java" />
+        <option value="$PROJECT_DIR$/src/textAnalyser/TooLongTextAnalyser.java" />
+        <option value="$PROJECT_DIR$/src/sqrtException/SqrtEx.java" />
+        <option value="$PROJECT_DIR$/src/getCallerClassAndMethod/GetCallerClass.java" />
+        <option value="$PROJECT_DIR$/src/mailService/RealMailService.java" />
+        <option value="$PROJECT_DIR$/src/mailService/Sendable.java" />
+        <option value="$PROJECT_DIR$/src/mailService/AbstractSendable.java" />
+        <option value="$PROJECT_DIR$/src/mailService/MailMessage.java" />
+        <option value="$PROJECT_DIR$/src/mailService/MailPackage.java" />
+        <option value="$PROJECT_DIR$/src/mailService/Package.java" />
+        <option value="$PROJECT_DIR$/src/mailService/MailService.java" />
+        <option value="$PROJECT_DIR$/src/logging/Main.java" />
+        <option value="$PROJECT_DIR$/src/thePost/Sendable.java" />
+        <option value="$PROJECT_DIR$/src/thePost/AbstractSendable.java" />
+        <option value="$PROJECT_DIR$/src/thePost/MailMessage.java" />
+        <option value="$PROJECT_DIR$/src/thePost/MailPackage.java" />
+        <option value="$PROJECT_DIR$/src/thePost/Package.java" />
+        <option value="$PROJECT_DIR$/src/thePost/MailService.java" />
+        <option value="$PROJECT_DIR$/src/thePost/RealMailService.java" />
+        <option value="$PROJECT_DIR$/src/thePost/IllegalPackageException.java" />
+        <option value="$PROJECT_DIR$/src/thePost/StolenPackageException.java" />
+        <option value="$PROJECT_DIR$/src/thePost/Thief.java" />
+        <option value="$PROJECT_DIR$/src/thePost/UntrustWorker.java" />
+        <option value="$PROJECT_DIR$/src/thePost/Inspector.java" />
+        <option value="$PROJECT_DIR$/src/thePost/Spy.java" />
+        <option value="$PROJECT_DIR$/src/thePost/Main.java" />
+        <option value="$PROJECT_DIR$/src/robot/RobotConnection.java" />
+        <option value="$PROJECT_DIR$/src/robot/RobotConnectionManager.java" />
+        <option value="$PROJECT_DIR$/src/robot/RobotConnectionExsception.java" />
+        <option value="$PROJECT_DIR$/src/robot/RobotConnectionException.java" />
+        <option value="$PROJECT_DIR$/src/robot/Main.java" />
+        <option value="$PROJECT_DIR$/src/io/IOTest.java" />
+        <option value="$PROJECT_DIR$/src/returnTrue/Main.java" />
+        <option value="$PROJECT_DIR$/src/inputOutputStream/InOut.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
@@ -125,8 +274,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,6 +288,30 @@
               <item name="com.javamentor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="com.javamentor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.javamentor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.javamentor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.javamentor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="returnTrue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.javamentor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.javamentor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="robot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.javamentor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.javamentor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="theater" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,7 +321,19 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549219043203" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553022613889" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="textAnalyser" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,13 +347,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factorial.Main" />
+  <component name="RunManager" selected="Application.InOut">
+    <configuration name="IOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.IOTest" />
       <module name="com.javamentor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factorial.*" />
+          <option name="PATTERN" value="io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +361,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mergingArrays.Main" />
+    <configuration name="InOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inputOutputStream.InOut" />
       <module name="com.javamentor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mergingArrays.*" />
+          <option name="PATTERN" value="inputOutputStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="returnTrue.Main" />
+      <module name="com.javamentor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="returnTrue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,24 +388,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chars.Main" />
+      <option name="MAIN_CLASS_NAME" value="robot.Main" />
       <module name="com.javamentor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isDegreeOfTwo.Main" />
-      <module name="com.javamentor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="isDegreeOfTwo.*" />
+          <option name="PATTERN" value="robot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,24 +401,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polyndrom.Main" />
+      <option name="MAIN_CLASS_NAME" value="thePost.Main" />
       <module name="com.javamentor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polyndrom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="howManyLeapYearsFromCristmas.Main" />
-      <module name="com.javamentor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="howManyLeapYearsFromCristmas.*" />
+          <option name="PATTERN" value="thePost.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,19 +414,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.IOTest" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.InOut" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.InOut" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.IOTest" />
         <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -269,17 +441,42 @@
       <option name="presentableId" value="Default" />
       <updated>1549040929035</updated>
       <workItem from="1549040930283" duration="7503000" />
-      <workItem from="1549131910765" duration="24232000" />
+      <workItem from="1549131910765" duration="30056000" />
+      <workItem from="1549379178422" duration="3205000" />
+      <workItem from="1549565646290" duration="152000" />
+      <workItem from="1549878645327" duration="9948000" />
+      <workItem from="1549910688646" duration="720000" />
+      <workItem from="1549957932096" duration="16105000" />
+      <workItem from="1550169208402" duration="339000" />
+      <workItem from="1550512009819" duration="4000" />
+      <workItem from="1550518644174" duration="846000" />
+      <workItem from="1550764666172" duration="1000" />
+      <workItem from="1550764794156" duration="132000" />
+      <workItem from="1550938860559" duration="118000" />
+      <workItem from="1550939149186" duration="3894000" />
+      <workItem from="1551123347132" duration="87000" />
+      <workItem from="1551285202133" duration="159000" />
+      <workItem from="1551378150739" duration="727000" />
+      <workItem from="1551606668913" duration="8659000" />
+      <workItem from="1551632760893" duration="1389000" />
+      <workItem from="1551634778791" duration="302000" />
+      <workItem from="1551636321145" duration="1921000" />
+      <workItem from="1552065945975" duration="4554000" />
+      <workItem from="1552145009298" duration="173000" />
+      <workItem from="1552146986854" duration="308000" />
+      <workItem from="1552484687582" duration="1246000" />
+      <workItem from="1553014485427" duration="2417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31735000" />
+    <option name="totallyTimeSpent" value="94965000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24678111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -288,7 +485,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32844576" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -296,7 +493,38 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32991204" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32991204" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31473532" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32991204" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32991204" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -308,7 +536,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -318,269 +546,519 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/mergingArrays/Main.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/mergingArrays/Main.java</url>
           <line>39</line>
           <properties />
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mergingArrays/Main.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mergingArrays/Main.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mergingArrays/Main.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/theater/Main.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/theater/Main.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/aPlusBisC/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/polyndrom/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="49" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="209">
+          <caret line="11" column="14" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/howManyLeapYearsFromCristmas/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/mergingArrays/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Robot/Robon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Robot/Direction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/returnTrue/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Robot/Testclass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        <state relative-caret-position="741">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/complexNumber/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theater/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/complexNumber/ComplexNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="211">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
           <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/integrate/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ascii/AsciiCharSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ascii/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/textAnalyser/TooLongTextAnaliser.java" />
+    <entry file="file://$PROJECT_DIR$/src/textAnalyser/TextAnalyzer.java" />
+    <entry file="file://$PROJECT_DIR$/src/textAnalyser/SpamAnalyser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/textAnalyser/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="11" selection-start-line="8" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/textAnaliser/KeywordsAnaliser.java">
+    <entry file="file://$PROJECT_DIR$/src/textAnalyser/KeywordAnalyser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+        <state relative-caret-position="190">
+          <caret line="10" column="15" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/textAnaliser/NegativeTextAnaliser.java">
+    <entry file="file://$PROJECT_DIR$/src/textAnalyser/TooLongTextAnalyser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/textAnalyser/Label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="8" selection-start-line="2" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/textAnalyser/TextAnalyser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="20" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factorial/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/integrate/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sqrtException/SqrtEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getCallerClassAndMethod/GetCallerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/textAnalyser/NegativeTextAnalyser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="11" selection-start-line="2" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mailService/Sendable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mailService/AbstractSendable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mailService/MailMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mailService/MailPackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mailService/Package.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mailService/MailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mailService/RealMailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logging/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="44" />
           <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/textAnaliser/TooLongTextAnaliser.java">
+    <entry file="file://$PROJECT_DIR$/src/thePost/Sendable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thePost/AbstractSendable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/textAnaliser/Label.java">
+    <entry file="file://$PROJECT_DIR$/src/thePost/MailMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="114">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Robot/Direction.java">
+    <entry file="file://$PROJECT_DIR$/src/thePost/MailPackage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="95">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thePost/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thePost/Spy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thePost/Inspector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thePost/UntrustworthyMailWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thePost/Thief.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thePost/StolenPackageException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thePost/IllegalPackageException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thePost/RealMailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thePost/MailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thePost/Package.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-677">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robot/Direction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#83#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Robot/Robot.java">
+    <entry file="file://$PROJECT_DIR$/src/robot/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="71" column="14" lean-forward="true" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
+        <state relative-caret-position="1349">
+          <caret line="71" column="14" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Robot/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/robot/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-923">
-          <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        <state relative-caret-position="3762">
+          <caret line="205" column="17" selection-start-line="205" selection-start-column="17" selection-end-line="205" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/isDegreeOfTwo/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/robot/RobotConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robot/RobotConnectionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robot/RobotConnectionException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/IOTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Polyndrom/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/textAnaliser/SpamAnaliser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/textAnaliser/TextAnaliser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factorial/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chars/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/returnTrue/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inputOutputStream/InOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="70" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
           <folding>
-            <element signature="e#80#81#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Theater/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mergingArrays/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_201</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>com.javamentor</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

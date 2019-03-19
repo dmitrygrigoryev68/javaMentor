@@ -12,24 +12,29 @@ public final class ComplexNumber {
     }
 
     public double getRe() {
+
         return re;
     }
 
     public double getIm() {
+
         return im;
     }
 
     @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        ComplexNumber that = (ComplexNumber) o;
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;}
+        if (obj == null || getClass() != obj.getClass()) {
+            return false;
+        }
+        ComplexNumber that = (ComplexNumber) obj;
         return Double.compare(that.getRe(), getRe()) == 0 &&
-                Double.compare(that.getIm(), getIm()) == 0;
+               Double.compare(that.getIm(), getIm()) == 0;
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(getRe(), getIm());
+        return toString().hashCode();
     }
 }

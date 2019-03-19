@@ -1,32 +1,41 @@
 package ascii;
 
-import java.util.Arrays;
 
 public class AsciiCharSequence implements CharSequence {
 
     private byte[] arr;
 
-    AsciiCharSequence (byte [] arr){
+    public AsciiCharSequence(byte[] arr) {
+
         this.arr = arr;
     }
 
     @Override
     public int length() {
-        return 0;
+        return arr.length;
     }
 
     @Override
     public char charAt(int index) {
-        return 0;
+
+        return (char) arr[index];
     }
 
     @Override
     public CharSequence subSequence(int start, int end) {
-        return null;
+        byte[] result = new byte[end-start];
+        for(int i = start; i < end; i++ ){
+            result[i-start] = arr[i];
+        }
+        return new AsciiCharSequence(result);
     }
 
     @Override
     public String toString() {
-        return "AsciiCharSequence{" + "arr=" + Arrays.toString(arr) + '}';
+        StringBuilder result = new StringBuilder(arr.length);
+        for(int i = 0; i < arr.length; i++ ){
+            result.append((char) arr[i]);
+        }
+        return result.toString();
     }
 }

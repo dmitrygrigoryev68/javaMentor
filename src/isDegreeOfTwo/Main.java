@@ -4,19 +4,15 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println(isPowerOfTwo(256));
+        System.out.println(isPowerOfTwo(2));
 
     }
 
 
     public static boolean isPowerOfTwo(int value) {
-        if (value == 0) {
-            return false;
-        }
-        else {
+
             int res = Math.abs(value);
-            return (res & (res - 1)) == 0;
-        }
+            return Integer.bitCount(res) == 1;
 
     }
 
